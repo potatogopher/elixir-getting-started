@@ -15,5 +15,4 @@ PDF, MOBI, EPUB documents for Elixir's Getting Started tutorial.
 
 ### Todos
 
-* Add "Mix and OTP"
 * Add "Metaprogramming in Elixir"
