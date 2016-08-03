@@ -1,6 +1,8 @@
 # Elixir's Getting Started External Documents
 PDF, MOBI, EPUB documents for Elixir's Getting Started tutorial.
 
+I am a huge fan of my Kindle and I wanted the ability to read the Elixir Getting Started tutorial outside of [elixir-lang.org](http://elixir-lang.org/getting-started/introduction.html). I thought others wanted the same thing, so here it is. Happy learning. 
+
 ## Links
 
 ### Getting Started
@@ -17,4 +19,7 @@ PDF, MOBI, EPUB documents for Elixir's Getting Started tutorial.
 * [meta-programming-in-elixir.pdf](https://github.com/potatogopher/elixir-getting-started/blob/master/meta-programming-in-elixir.pdf?raw=true)
 * [meta-programming-in-elixir.epub](https://github.com/potatogopher/elixir-getting-started/blob/master/meta-programming-in-elixir.epub?raw=true)
 * [meta-programming-in-elixir.mobi](https://github.com/potatogopher/elixir-getting-started/blob/master/meta-programming-in-elixir.mobi?raw=true)
+
+### Todo
+* Elixir Docs
 
