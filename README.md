@@ -13,6 +13,8 @@ PDF, MOBI, EPUB documents for Elixir's Getting Started tutorial.
 * [mix-and-otp.epub](https://github.com/potatogopher/elixir-getting-started/blob/master/mix-and-otp.epub?raw=true)
 * [mix-and-otp.mobi](https://github.com/potatogopher/elixir-getting-started/blob/master/mix-and-otp.mobi?raw=true)
 
-### Todos
+### Meta-programming in Elixir
+* [meta-programming-in-elixir.pdf](https://github.com/potatogopher/elixir-getting-started/blob/master/meta-programming-in-elixir.pdf?raw=true)
+* [meta-programming-in-elixir.epub](https://github.com/potatogopher/elixir-getting-started/blob/master/meta-programming-in-elixir.epub?raw=true)
+* [meta-programming-in-elixir.mobi](https://github.com/potatogopher/elixir-getting-started/blob/master/meta-programming-in-elixir.mobi?raw=true)
 
-* Add "Metaprogramming in Elixir"
